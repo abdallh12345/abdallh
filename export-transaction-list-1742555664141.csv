@@ -1,0 +1,2 @@
+﻿Transaction Hash,Status,Method,Blockno,DateTime (UTC),From,From_Nametag,To,To_Nametag,Amount,Value (USD),Txn Fee
+"0x1923b9ca5b05fda1fb0e01ac2601d47c1a8b1a0774c70567c3eb49a48360e631","Error in Main Txn : execution reverted","Buy Token AMAP","46508516","2025-02-09 13:15:45","0x0d33cf20b0720fc92c74ec06647dbdfbf72ebe07","","0x5c952063c7fc8610ffdb798152d69f0b9550762b","","0.1 BNB","$63.39","0.00015397"
